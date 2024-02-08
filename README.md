@@ -1,1 +1,1 @@
-# myrepo
+# Instructions for new users
